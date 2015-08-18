@@ -9,8 +9,11 @@ $testsBin = $curDir + "\Tests\bin"
 $wrappersBin = $curDir + "\Wrappers\bin"
 $testsProject = $curDir + "\Tests\Tests.csproj"
 $wrappersProject = $curDir + "\Wrappers\Wrappers.csproj"
-$resultsXml = $curDir + "\Results\results.xml"
-$resultsHtml = $curDir + "\Results\results.html"
+$resultsDir = $curDir + "\Results"
+$resultsXml = $resultsDir + "\results.xml"
+$resultsHtml = $resultsDir + "\results.html"
+
+New-Item -Path $resultsDir -ItemType "directory"
 
 Remove-Item $testsBin -Recurse
 Remove-Item $wrappersBin -Recurse
