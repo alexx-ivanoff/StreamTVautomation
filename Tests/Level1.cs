@@ -14,7 +14,7 @@ namespace Tests
         }
 
         [SetUp]
-        public virtual void SetUp()
+        public void SetUp()
         {
             //open website in browser
             Context.Browser.GoToUrl(Context.Settings.HostLink);

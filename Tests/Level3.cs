@@ -26,9 +26,7 @@ namespace Tests
             var region2id = 13;
             var fst1id = 3;
             var fst2id = 4;
-            var trainer1name = "Trainer1 T.T.";
             var trainer1id = 556;
-            var trainer2name = "Trainer2 T.T.";
             var trainer2id = 557;
             var styleId = 2;
             var ageId = 2;
@@ -85,9 +83,7 @@ namespace Tests
             var region2idUp = 16;
             var fst1idUp = 5;
             var fst2idUp = 6;
-            var trainer1nameUp = "Trainer2 T.T.";
             var trainer1idUp = 557;
-            var trainer2nameUp = "Trainer1 T.T.";
             var trainer2idUp = 556;
             var styleIdUp = 3;
             var ageIdUp = 3;

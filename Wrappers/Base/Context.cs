@@ -56,7 +56,7 @@ namespace Wrappers
 
             public static string Domain
             {
-                get { new Uri(HostLink).Host.ToString(); }
+                get { return new Uri(HostLink).Host.ToString(); }
             }
             public static string UserName { get; internal set; }
             public static string UserPassword { get; internal set; }
