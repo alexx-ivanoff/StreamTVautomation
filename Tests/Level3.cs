@@ -5,7 +5,7 @@ using Wrappers;
 
 namespace Tests
 {
-    internal class Level3 : BaseFixture
+    internal class Level3 : BaseFixtureAPI
     {
         public Level3(BrowserType browserType)
         : base(browserType)
