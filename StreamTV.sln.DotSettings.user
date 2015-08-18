@@ -1,0 +1,81 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05935F36068E4482A4EC6842557556BB/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05935F36068E4482A4EC6842557556BB/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05935F36068E4482A4EC6842557556BB/Name/@EntryValue">L1T01_CreateAndSearchWrestler</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05935F36068E4482A4EC6842557556BB/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=16A074C8CF0C4EE3B317FB97EA2AD4BB/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=16A074C8CF0C4EE3B317FB97EA2AD4BB/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=16A074C8CF0C4EE3B317FB97EA2AD4BB/Name/@EntryValue">L3T01_CreateAndSearchWrestler #3</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=16A074C8CF0C4EE3B317FB97EA2AD4BB/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level3" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=382C0BA1587F49BC9F5046245180DC68/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=382C0BA1587F49BC9F5046245180DC68/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=382C0BA1587F49BC9F5046245180DC68/Name/@EntryValue">L3T01_CreateAndSearchWrestler</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=382C0BA1587F49BC9F5046245180DC68/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level3" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4E8FD73D0C4F442E9325097C3FC2326A/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4E8FD73D0C4F442E9325097C3FC2326A/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4E8FD73D0C4F442E9325097C3FC2326A/Name/@EntryValue">L1T02_UpdateWrestler #4</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4E8FD73D0C4F442E9325097C3FC2326A/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level3" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=55A5C20A1BEB4C2C92AF5492DFA5F9F9/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=55A5C20A1BEB4C2C92AF5492DFA5F9F9/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=55A5C20A1BEB4C2C92AF5492DFA5F9F9/Name/@EntryValue">L1T01_CreateAndSearchWrestler #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=55A5C20A1BEB4C2C92AF5492DFA5F9F9/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level3" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5A33BCEB7EDD4945AE7BD34AA277F9B7/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5A33BCEB7EDD4945AE7BD34AA277F9B7/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5A33BCEB7EDD4945AE7BD34AA277F9B7/Name/@EntryValue">L1T01_CreateAndSearchWrestler #3</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=5A33BCEB7EDD4945AE7BD34AA277F9B7/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1(Firefox).L1T01_CreateAndSearchWrestler" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76738E34B8824CE7A5C3D32A81E8AEE4/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76738E34B8824CE7A5C3D32A81E8AEE4/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76738E34B8824CE7A5C3D32A81E8AEE4/Name/@EntryValue">L1T00_API</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76738E34B8824CE7A5C3D32A81E8AEE4/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level3" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=7980F8430C7A4AC89B1D60C5BE27C34F/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=7980F8430C7A4AC89B1D60C5BE27C34F/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=7980F8430C7A4AC89B1D60C5BE27C34F/Name/@EntryValue">L1T01_SportsmenCRUD</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=7980F8430C7A4AC89B1D60C5BE27C34F/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8812A9EF8B86486ABEB28F73AF853BE9/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8812A9EF8B86486ABEB28F73AF853BE9/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8812A9EF8B86486ABEB28F73AF853BE9/Name/@EntryValue">L1T00_API #4</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8812A9EF8B86486ABEB28F73AF853BE9/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8F1C614504C746308DC952A88825CDEA/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8F1C614504C746308DC952A88825CDEA/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8F1C614504C746308DC952A88825CDEA/Name/@EntryValue">L1T03_DeleteWrestler</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8F1C614504C746308DC952A88825CDEA/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=90460CC5AB7B403AB5DCC785A1C6B2AE/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=90460CC5AB7B403AB5DCC785A1C6B2AE/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=90460CC5AB7B403AB5DCC785A1C6B2AE/Name/@EntryValue">L1T02_UpdateWrestler #3</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=90460CC5AB7B403AB5DCC785A1C6B2AE/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=951D538586784E4481B47D45A93A0C6D/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=951D538586784E4481B47D45A93A0C6D/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=951D538586784E4481B47D45A93A0C6D/Name/@EntryValue">L1T00_API #3</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=951D538586784E4481B47D45A93A0C6D/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9EF7BE965CE84A0191E4C02C5C392A34/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9EF7BE965CE84A0191E4C02C5C392A34/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9EF7BE965CE84A0191E4C02C5C392A34/Name/@EntryValue">L1T01_SportsmenCRUD #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9EF7BE965CE84A0191E4C02C5C392A34/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A563F29F20EE431CAC9BE5B17A051466/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A563F29F20EE431CAC9BE5B17A051466/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A563F29F20EE431CAC9BE5B17A051466/Name/@EntryValue">L3T01_CreateAndSearchWrestler #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A563F29F20EE431CAC9BE5B17A051466/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level3" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A83195B8547B4EE6B5A3625408766C95/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A83195B8547B4EE6B5A3625408766C95/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A83195B8547B4EE6B5A3625408766C95/Name/@EntryValue">L3T01_CRUD</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A83195B8547B4EE6B5A3625408766C95/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level3" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level1(Chrome).L1T01_CreateAndSearchWrestler" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level1(Firefox).L1T02_Filters" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level1(Chrome).L1T02_Filters" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;e Id="Tests.Level2" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BEA82990DF61489299E27797134FFFF6/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BEA82990DF61489299E27797134FFFF6/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BEA82990DF61489299E27797134FFFF6/Name/@EntryValue">L1T00_API #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BEA82990DF61489299E27797134FFFF6/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C9C9BF04C23744F58B46AC3FC63C9B28/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C9C9BF04C23744F58B46AC3FC63C9B28/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C9C9BF04C23744F58B46AC3FC63C9B28/Name/@EntryValue">L1T01_SportsmenCRUD #4</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C9C9BF04C23744F58B46AC3FC63C9B28/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F1B917972D8D46B781480116696A0E0B/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F1B917972D8D46B781480116696A0E0B/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F1B917972D8D46B781480116696A0E0B/Name/@EntryValue">L1T02_UpdateWrestler #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F1B917972D8D46B781480116696A0E0B/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F3F6B7EE3BC441748C498BC736844CE8/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F3F6B7EE3BC441748C498BC736844CE8/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F3F6B7EE3BC441748C498BC736844CE8/Name/@EntryValue">L1T02_UpdateWrestler</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=F3F6B7EE3BC441748C498BC736844CE8/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Tests.Level1" Project="B950A57F-A39D-4B7A-9C77-8595510755DC" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>

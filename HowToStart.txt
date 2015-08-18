@@ -1,0 +1,4 @@
+1) Check values in Tests\App.config
+2) Modify Run.ps1, write path to NUnit bin folder and msbuild.exe
+3) Execute Run.ps1
+4) Check results in Results folder

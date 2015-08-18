@@ -1,0 +1,1 @@
+Write-Output (Get-Item -Path ".\" -Verbose).FullName
