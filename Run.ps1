@@ -18,5 +18,5 @@ Remove-Item $resultsHtml -Recurse
 
 & $msbuild $wrappersProject /t:Build /p:Configuration=Debug
 & $msbuild $testsProject /t:Build /p:Configuration=Debug
-#& $nunit\nunit-console.exe /xml:$resultsXml $testsDll
-#& $NUnitHTMLReportGenerator $resultsXml $resultsHtml
+& $nunit\nunit-console.exe /xml:$resultsXml $testsDll
+& $NUnitHTMLReportGenerator $resultsXml $resultsHtml
